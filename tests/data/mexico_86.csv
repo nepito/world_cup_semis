@@ -1,17 +1,17 @@
-equipo,gf,diff,semifinal,mundial
-Argentina, 6,2,FALSE,1986
-Italia, 5, 1, FALSE,1986
-Bulgaria, 2,-2, FALSE,1986
-México, 4,2,FALSE,1986
-Paraguay, 4,1, FALSE, 1986
-Bélgica,5,0, FALSE, 1986
-Unión Soviética, 9,8, FALSE, 1986
-Francia, 5,4,FALSE, 1986
-Brasil, 5, 5, FALSE, 1986
-España, 5, 2, FALSE, 1986
-Dinamarca, 9, 8, FALSE, 1986
-Alemania, 3, -1, FALSE, 1986
-Uruguay, 2,-5, FALSE, 1986
-Marruecos, 3,2, FALSE, 1986
-Inglaterra, 3, 2, FALSE, 1986
-Polonia, 1, -2, FALSE, 1986
+id,semifinal
+1,FALSE
+2, FALSE
+3, FALSE
+4,FALSE
+5, FALSE
+6, FALSE
+7,TRUE
+8,TRUE
+9,TRUE
+10, FALSE
+11,TRUE
+12, FALSE
+13, FALSE
+14, FALSE
+15, FALSE
+16, FALSE
