@@ -1,4 +1,4 @@
-<a href="https://www.islas.org.mx"><img src="./img/logo.jpeg" align="right" width="256" /></a>
+<a href="http://nies.soccer/"><img src="https://github.com/nepito/world_cup_semis/blob/develop/img/logo.jpeg" align="right" width="256" /></a>
 
 # World Cup Semis
 
