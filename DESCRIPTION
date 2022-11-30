@@ -1,10 +1,10 @@
-Package: templater
-Title: Template for R projects
+Package: wcSemis
+Title: World Cup Semifinals
 Authors@R: c(
-    person(given = "Ciencia de Datos",
-           family = "GECI",
+    person(given = "Nepo Rojas",
+           family = "NIES",
            role = c("aut", "cre", "cph"),
-           email = "ciencia.datos@islas.org.mx"
+           email = "nepo.rojas@gmail.com"
            ))
 Config/testthat/edition: 3
 Description: Plantilla de Ciencia de Datos en GECI para proyectos en R
@@ -22,3 +22,5 @@ Suggests:
     testthat
 Type: Package
 Version: 0.1.0
+Depends: 
+    R (>= 2.10)
