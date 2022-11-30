@@ -1,8 +1,7 @@
 describe("Test all is ready", {
-  it("Return one", {
-    expected <- 1
+  it("Return first element of solution", {
     obtained <- return_one()
-    expect_equal(expected, obtained)
+    expect_true(expected, obtained)
   })
 })
 
