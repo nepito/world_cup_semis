@@ -16,7 +16,7 @@ to_solution$prob_semis <- predict(both, newdata = to_solution, type = "response"
 to_solution <- to_solution %>%
   arrange(-prob_semis) %>%
   select(1) %>%
-  mutate(semis = c(rep(TRUE,4), rep(FALSE, 12))) %>%
+  mutate(semis = c(rep(TRUE, 4), rep(FALSE, 12))) %>%
   arrange(id)
 
 treshold <- 0.5
