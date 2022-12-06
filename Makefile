@@ -22,7 +22,9 @@ check:
 clean:
 	rm --force *.tar.gz
 	rm --force --recursive tests/testthat/_snaps
+	rm --force --recursive *.Rcheck
 	rm --force NAMESPACE
+	rm --force Rplots.pdf
 
 coverage: setup tests
 	Rscript tests/testthat/coverage.R
